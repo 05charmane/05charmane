@@ -1,9 +1,10 @@
 ## *Charmane McDonald* - README REPO
-
 <p align='center'> 
 ⭐ ______ INTRODUCTION ______ ⭐
 </p> 
+
 <br />
+
 Hello 👋😃
 <br />
 I'm Charmane McDonald, a student currently learning __Java__. I attend *Clio High School* and *GCI (Genesee Career Institute)*. 
