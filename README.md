@@ -24,7 +24,7 @@ __*Some Basic Information about me:*__
 - My personal email (ch.mcdonald51@gmail.com) is currently full of emails from colleges so it is not the best way to contact me. 
 
 ## Experience(s)
-
+ -
  - I have experience using c Sharp
  - I have experience with __HTML__ & __CSS__
  - I have experience using __Java__
