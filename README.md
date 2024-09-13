@@ -29,8 +29,8 @@ from colleges
 
 <p align='center'> 
 
-   📫 Clio Email: <a href='mailto:01368@clioschools.net'>your.email@example.com</a> 
-   📫 GCI Email: <a href='mailto:gci.230826@students.geneseeisd.org'>your.email@example.com</a> 
+   - 📫 Clio Email: <a href='mailto:01368@clioschools.net'>your.email@example.com</a> 
+   - 📫 GCI Email: <a href='mailto:gci.230826@students.geneseeisd.org'>your.email@example.com</a> 
 
 </p> 
 
