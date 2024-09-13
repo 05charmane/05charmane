@@ -12,7 +12,9 @@ I'm Charmane McDonald, a student currently learning __Java__. I attend *Clio Hig
 At *Clio High School* I'm taking trig/Precalc, personal finance, and AP language arts. At *GCI* I am taking AP programing. I am 
 passionate about coding and computer science in general. I like to play video games (of course), my two favorite games are 
 *Minecraft* and *Cult of The Lamb*. 
+
 <br />
+
 __*Some Basic Information about me:*__
 
 - I'm a senior attending Clio Highschool & GCI
