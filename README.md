@@ -1,7 +1,7 @@
 ## Charmane McDonald - README REPO
 
 <p align='center'> 
-__*INTRODUCTION*__
+__INTRODUCTION__
 </p> 
 
 Hello 👋😃
