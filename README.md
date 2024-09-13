@@ -12,13 +12,13 @@ coding and computer science in general. I like to play video games (of course), 
 
 __*Some Basic Information about me:*__
 
-🖤 I'm a *senoir* attending Clio Highschool & GCI
-🖤 I'm learning *Java* and would like to learn *Python*
-🖤 I know *C++*
-🖤 I know *HTML & CSS*
-🖤 She/Her 💖
-🖤 (EDIT) I'm OSHA certified 
-🖤 The best way to contact me is through *email*:
+- I'm a *senoir* attending Clio Highschool & GCI
+- I'm learning *Java* and would like to learn *Python*
+- I know *C++*
+- I know *HTML & CSS*
+- She/Her 💖
+- (EDIT) I'm OSHA certified 
+- The best way to contact me is through *email*:
                                        🖤 013683@clioschools.net
                                        🖤 gci.230826@students.geneseeisd.org
 - I have a personal email (ch.mcdonald51@gmail.com) however this is not that fastest way to reach me, it is currently full of emails
