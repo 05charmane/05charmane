@@ -2,13 +2,7 @@
 
 __Some Basic Information about me:__
 
-<!--
-
-**05charmane/05charmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... my senoir year of highschool. I'm taking an AP computer science class at GCI (Genesee Career Institute).
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,4 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**05charmane/05charmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
