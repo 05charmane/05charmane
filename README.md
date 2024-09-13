@@ -1,12 +1,13 @@
 ## Charmane McDonald - README REPO
 
 <p align='center'> 
-__INTRODUCTION__
+___INTRODUCTION___
 </p> 
 
 Hello 👋😃
 
-I'm Charmane McDonald! I'm currently a student at Clio Highschool (My Senior Year), and I am also attending GCI for computer science. 
+I'm Charmane McDonald, I'm a student currently learning __*Java*__. I attend _Clio Highschool_ and GCI (Genesee Career Institute) for computer science. 
+
 I passionate about computer sciene and coding. I also like video games and would poteuintally like to learn animation or graphic desgin. 
 Also go to college. 
 
