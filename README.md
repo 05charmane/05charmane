@@ -1,8 +1,8 @@
 ## Charmane McDonald - README REPO
 
-<p align='center'> 
-_____INTRODUCTION_____
-</p> 
+## <p align='center'> 
+## __*INTRODUCTION*__
+## </p> 
 
 Hello 👋😃
 
@@ -24,7 +24,7 @@ __*Some Basic Information about me:*__
 - My personal email (ch.mcdonald51@gmail.com) is currently full of emails from colleges so it is not the best way to contact me. 
 
 ## <p align='center'> 
-____EXPERIENCES & CONTACT INFO_____
+____EXPERIENCES & CONTACT INFO____
 ## </p> 
 
 __*Experience(s)*__
