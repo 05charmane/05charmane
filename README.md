@@ -23,11 +23,11 @@ __*Some Basic Information about me:*__
                                        🖤 gci.230826@students.geneseeisd.org
 - My personal email (ch.mcdonald51@gmail.com) is currently full of emails from colleges so it is not the best way to contact me. 
 
-<p align='center'> 
+## <p align='center'> 
 ____EXPERIENCES & CONTACT INFO_____
-</p> 
+## </p> 
 
-## Experience(s)
+__*Experience(s)*__
  -
  - I have experience using c Sharp
  - I have experience with __HTML__ & __CSS__
