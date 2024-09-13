@@ -30,7 +30,25 @@ from colleges
 <p align='center'> 
 
    - 📫 Clio Email: <a href='mailto:01368@clioschools.net'>your.email@example.com</a> 
-   - 📫 GCI Email: <a href='mailto:gci.230826@students.geneseeisd.org'>your.email@example.com</a> 
+   - 📫 GCI Email: <a href='mailto:gci.230826@students.geneseeisd.org'>your.email@example.com</a>
+   - 
+
+</p> 
+
+## GitHub Stats
+<p align='center'> 
+
+   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=05charmane&show_icons=true&count_private=true"/> 
+
+   </a> 
+
+   <a href="https://github.com/yourusername/github-readme-stats"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=05charmane&layout=compact"/> 
+
+   </a> 
 
 </p> 
 
