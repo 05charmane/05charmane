@@ -38,13 +38,13 @@ from colleges
 ## GitHub Stats
 <p align='center'> 
 
-   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
+   <a href="https://github-readme-stats.vercel.app/api?username=05charmane&show_icons=true&count_private=true"> 
 
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=05charmane&show_icons=true&count_private=true"/> 
 
    </a> 
 
-   <a href="https://github.com/yourusername/github-readme-stats"> 
+   <a href="https://github.com/05charmane/github-readme-stats"> 
 
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=05charmane&layout=compact"/> 
 
