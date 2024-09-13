@@ -17,11 +17,11 @@ __Some Basic Information about me:__
 - The best way to contact me is my email: 013683@clioschools.net & gci.230826@students.geneseeisd.org
 - I have a personal email (ch.mcdonald51@gmail.com) however this is not that fastest way to reach me, it is currently full of emails from colleges
 
-  ## Eperiance
+## Experience(s)
 
-  - I have experience using c Sharp
-  - I have experience with __HTML__
-  - I have experience using __Java__
+ - I have experience using c Sharp
+ - I have experience with __HTML__
+ - I have experience using __Java__
 
 ## Social Media
 
