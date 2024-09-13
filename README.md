@@ -10,15 +10,17 @@ I'm Charmane McDonald, a student currently learning __Java__. I attend *Clio Hig
 At *Clio* I'm taking trig/Precalc, personal finance, and AP language arts. At *GCI* I am taking an AP Computer Science class. I am passionate about 
 coding and computer science in general. I like to play video games (of course), some of my favorite games are *Minecraft* and *Cult of The Lamb*. 
 
-__Some Basic Information about me:__
+__*Some Basic Information about me:*__
 
-- I attend Clio Highschool & GCI
-- I'm a senior (class of 2025)
-- I'm currently learning Java and would like to eventually learn python
-- I know a little c++ & HTML
-- She/Her
-- I'm OSHA certified lol
-- The best way to contact me is my email: 013683@clioschools.net & gci.230826@students.geneseeisd.org
+🖤 I'm a *senoir* attending Clio Highschool & GCI
+🖤 I'm learning *Java* and would like to learn *Python*
+🖤 I know *C++*
+🖤 I know *HTML & CSS*
+🖤 She/Her 💖
+🖤 (EDIT) I'm OSHA certified 
+🖤 The best way to contact me is through *email*:
+                                       🖤 013683@clioschools.net
+                                       🖤 gci.230826@students.geneseeisd.org
 - I have a personal email (ch.mcdonald51@gmail.com) however this is not that fastest way to reach me, it is currently full of emails
 from colleges
 
