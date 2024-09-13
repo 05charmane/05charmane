@@ -1,7 +1,9 @@
 ## Charmane McDonald - README REPO
 
 <p align='center'> 
+  
 ⭐ ______ INTRODUCTION ______ ⭐
+
 </p> 
 
 Hello 👋😃
