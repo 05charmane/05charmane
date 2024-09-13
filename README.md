@@ -1,15 +1,14 @@
 ## Charmane McDonald - README REPO
 
 <p align='center'> 
-___INTRODUCTION___
+_____INTRODUCTION_____
 </p> 
 
 Hello 👋😃
 
-I'm Charmane McDonald, I'm a student currently learning __Java__. I attend _Clio Highschool_ and GCI (Genesee Career Institute) for computer science. 
-
-I passionate about computer sciene and coding. I also like video games and would poteuintally like to learn animation or graphic desgin. 
-Also go to college. 
+I'm Charmane McDonald, a student currently learning __Java__. I attend *Clio Highschool* and *GCI (Genesee Career Institute)*. 
+At *Clio* I'm taking trig/Precalc, personal finance, and AP language arts. At *GCI* I am taking an AP Computer Science class. I am passionate about 
+coding and computer science in general. I like to play video games (of course), some of my favorite games are *Minecraft* and *Cult of The Lamb*. 
 
 __Some Basic Information about me:__
 
