@@ -15,6 +15,7 @@ passionate about coding and computer science in general. I like to play video ga
 
 <br />
 
+
 __*Some Basic Information about me:*__
 
 - I'm a senior attending Clio Highschool & GCI
