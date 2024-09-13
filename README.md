@@ -9,34 +9,44 @@
 Hello 👋😃
 </p> 
 
-I'm Charmane McDonald, a student currently learning __Java__. I attend *Clio High School* and *GCI (Genesee Career Institute)*. 
-At *Clio High School* I'm taking trig/Precalc, personal finance, and AP language arts. At *GCI* I am taking AP programing. I am 
+I'm Charmane McDonald, a student currently learning Java. I attend __*Clio High School*__ and __*GCI (Genesee Career Institute)*__. 
+I'm taking trig/Precalc, personal finance, and AP language arts at Clio High School. At GCI I am taking AP programing. I am 
 passionate about coding and computer science in general. I like to play video games (of course), my two favorite games are 
 *Minecraft* and *Cult of The Lamb*. 
 
 __*Some Basic Information about me:*__
 
-- I'm a senior attending Clio Highschool & GCI
-- I'm learning *Java* through [CodeHS](https://codehs.com/)
+- I'm a senior attending *Clio Highschool* & *GCI*
+- I am a member of *NHS (National Honors Society)* where I do volunteer work
+- I'm currently learning *Java* through [CodeHS](https://codehs.com/)
 - I would like to learn *Python*
 - I know *C#*
 - I know *HTML & CSS*
 - My pronouns are She/Her 💖
 - (EDIT) I'm OSHA certified 
-- The best way to contact me is through *Email*:
-                                       🖤 013683@clioschools.net
-                                       🖤 gci.230826@students.geneseeisd.org
-- My personal email (ch.mcdonald51@gmail.com) is currently full of emails from colleges so it is not the best way to contact me.
+- The best way to contact me is through *Email:*
+
+<br />
+
+  🖤 [My Clio Highschool Email](013683@clioschools.net)
+
+<br />
+
+  🖤 [My GCI Email](gci.230826@students.geneseeisd.org)
+  
+<br />
+
+  🖤 [My Personal Email](ch.mcdonald51@gmail.com) *(This email is not the best for contacting me, it is currently full)*
+  
+<br />
 
 <p align='center'> 
-⭐ ______ EXPERIENCES & CONTACT INFO ______ ⭐
+⭐ ______ EXPERIENCES & SOCIAL MEDIA ______ ⭐
 </p> 
-
+<br />
 __*Experience(s)*__
- -
- - I have experience using c Sharp
- - I have experience with __HTML__ & __CSS__
- - I have experience using __Java__
+
+ - 
 
 ## Social Media
 
