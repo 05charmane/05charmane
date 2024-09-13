@@ -16,7 +16,7 @@ passionate about coding and computer science in general. I like to play video ga
 __*Some Basic Information about me:*__
 
 - I'm a senior attending Clio Highschool & GCI
-- I'm learning *Java* through (EDIT)CodeHS
+- I'm learning *Java* through [CodeHS](https://codehs.com/)
 - I would like to learn *Python*
 - I know *C#*
 - I know *HTML & CSS*
