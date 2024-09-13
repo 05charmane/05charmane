@@ -3,7 +3,7 @@
 <p align='center'> 
 __INTRODUCTION__
 </p> 
-'''
+
 Hello 👋😃
 
 I'm Charmane McDonald! I'm currently a student at Clio Highschool (My Senior Year), and I am also attending GCI for computer science. 
@@ -20,7 +20,6 @@ __Some Basic Information about me:__
 - The best way to contact me is my email: 013683@clioschools.net & gci.230826@students.geneseeisd.org
 - I have a personal email (ch.mcdonald51@gmail.com) however this is not that fastest way to reach me, it is currently full of emails
 from colleges
-'''
 
 ## Experience(s)
 
