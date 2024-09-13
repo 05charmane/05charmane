@@ -24,7 +24,7 @@ __*Some Basic Information about me:*__
 - My personal email (ch.mcdonald51@gmail.com) is currently full of emails from colleges so it is not the best way to contact me.
 
 <p align='center'> 
-______ EXPERIENCES & CONTACT INFO ______
+⭐ ______ EXPERIENCES & CONTACT INFO ______ ⭐
 </p> 
 
 __*Experience(s)*__
