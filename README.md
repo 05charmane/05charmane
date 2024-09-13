@@ -6,7 +6,7 @@ ___INTRODUCTION___
 
 Hello 👋😃
 
-I'm Charmane McDonald, I'm a student currently learning *Java*. I attend _Clio Highschool_ and GCI (Genesee Career Institute) for computer science. 
+I'm Charmane McDonald, I'm a student currently learning __Java__. I attend _Clio Highschool_ and GCI (Genesee Career Institute) for computer science. 
 
 I passionate about computer sciene and coding. I also like video games and would poteuintally like to learn animation or graphic desgin. 
 Also go to college. 
