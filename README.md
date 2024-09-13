@@ -1,7 +1,7 @@
 ## Charmane McDonald - README REPO
 
 <p align='center'> 
-______INTRODUCTION______
+______ INTRODUCTION ______
 </p> 
 
 Hello 👋😃
@@ -23,9 +23,9 @@ __*Some Basic Information about me:*__
                                        🖤 gci.230826@students.geneseeisd.org
 - My personal email (ch.mcdonald51@gmail.com) is currently full of emails from colleges so it is not the best way to contact me. 
 
-## <p align='center'> 
-____EXPERIENCES & CONTACT INFO____
-## </p> 
+<p align='center'> 
+______ EXPERIENCES & CONTACT INFO ______
+</p> 
 
 __*Experience(s)*__
  -
