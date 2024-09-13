@@ -1,6 +1,6 @@
 ## Charmane McDonald - README REPO
 
-<p align='center'> 
+## <p align='center'> 
 ## __*INTRODUCTION*__
 </p> 
 
