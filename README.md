@@ -6,7 +6,7 @@
 
 Hello 👋😃
 
-I'm Charmane McDonald, a student currently learning __Java__. I attend *Clio Highschool* and *GCI (Genesee Career Institute)*. 
+I'm Charmane McDonald, a student currently learning __Java__. I attend *Clio High School and *GCI (Genesee Career Institute)*. 
 At *Clio* I'm taking trig/Precalc, personal finance, and AP language arts. At *GCI* I am taking an AP Computer Science class. I am passionate about 
 coding and computer science in general. I like to play video games (of course), my two favorite games are *Minecraft* and *Cult of The Lamb*. 
 
