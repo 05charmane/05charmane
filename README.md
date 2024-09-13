@@ -37,7 +37,7 @@ __*Experience(s)*__
 
 <p align='center'> 
 
-   - 📫 Clio Email: <a href='mailto:01368@clioschools.net'>your.01368@clioschools.net</a> 
+   - 📫 Clio Email: <a href='mailto:01368@clioschools.net'>01368@clioschools.net</a> 
    - 📫 GCI Email: <a href='mailto:gci.230826@students.geneseeisd.org'>your.email@example.com</a>
    - 
 
