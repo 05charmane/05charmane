@@ -1,22 +1,24 @@
-## Charmane McDonald - README REPO
+## *Charmane McDonald* - README REPO
 
 <p align='center'> 
 ⭐ ______ INTRODUCTION ______ ⭐
 </p> 
-
+<br />
 Hello 👋😃
-
+<br />
 I'm Charmane McDonald, a student currently learning __Java__. I attend *Clio High School* and *GCI (Genesee Career Institute)*. 
-At *Clio High School* I'm taking trig/Precalc, personal finance, and AP language arts. At *GCI* I am taking AP programing. I am passionate about 
-coding and computer science in general. I like to play video games (of course), my two favorite games are *Minecraft* and *Cult of The Lamb*. 
-
+At *Clio High School* I'm taking trig/Precalc, personal finance, and AP language arts. At *GCI* I am taking AP programing. I am 
+passionate about coding and computer science in general. I like to play video games (of course), my two favorite games are 
+*Minecraft* and *Cult of The Lamb*. 
+<br />
 __*Some Basic Information about me:*__
 
-- I'm a *senior* attending Clio Highschool & GCI
-- I'm learning *Java* and would like to learn *Python*
-- I know *C++*
+- I'm a senior attending Clio Highschool & GCI
+- I'm learning *Java* through (EDIT)CodeHS
+- I would like to learn *Python*
+- I know *C#*
 - I know *HTML & CSS*
-- She/Her 💖
+- My pronouns are She/Her 💖
 - (EDIT) I'm OSHA certified 
 - The best way to contact me is through *Email*:
                                        🖤 013683@clioschools.net
