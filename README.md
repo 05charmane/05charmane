@@ -3,7 +3,6 @@
 <p align='center'> 
 __INTRODUCTION__
 </p> 
-
 Hello 👋😃
 
 I'm Charmane McDonald! I'm currently a student at Clio Highschool (My Senior Year), and I am also attending GCI for computer science. 
