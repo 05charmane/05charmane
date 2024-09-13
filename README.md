@@ -21,8 +21,7 @@ __*Some Basic Information about me:*__
 - The best way to contact me is through *email*:
                                        🖤 013683@clioschools.net
                                        🖤 gci.230826@students.geneseeisd.org
-- My personal email (ch.mcdonald51@gmail.com) is currently full of emails from colleges so it is not the best way to contact me. 
-
+- My personal email (ch.mcdonald51@gmail.com) is currently full of emails from colleges so it is not the best way to contact me.
 
 <p align='center'> 
 ______ EXPERIENCES & CONTACT INFO ______
