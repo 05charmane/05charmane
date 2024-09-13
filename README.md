@@ -52,6 +52,12 @@ from colleges
 
 </p> 
 
+## Technology Stack 
+
+- Java
+- GitHub
+- Visual Studio
+- Scratch/Game Stack
 
 <!--
 **05charmane/05charmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
