@@ -2,6 +2,7 @@
 
 # 💖⭐ **INTRODUCTION** 💖⭐ 
 Hello 👋😃  
+  
 I'm Charmane McDonald, a student currently learning Java. I attend __*Clio High School*__ and __*GCI (Genesee Career Institute)*__. 
 I'm taking trig/Precalc, personal finance, and AP language arts at Clio High School. At GCI I am taking AP programing. I am 
 passionate about coding and computer science in general. I like to play video games (of course), my two favorite games are 
