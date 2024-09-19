@@ -27,7 +27,8 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
 >      
 > 🖤 [My GCI Email](gci.230826@students.geneseeisd.org)
 >      
-> 🖤 [My Personal Email](ch.mcdonald51@gmail.com) *(This email is currently full, it is not the best way to contact me)*
+> 🖤 [My Personal Email](ch.mcdonald51@gmail.com)
+>*(My personal email is currently full, it is not the best way to contact me)*
   
 <br />
 
