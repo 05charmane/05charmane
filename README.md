@@ -40,22 +40,22 @@ My first experience with "computer science" was a game programming class that I 
 #### ***Some of my qualifications based on my experiences:***
 
 - [x] Completion and passing of *game programming class* at Genesee Career Institute with proficiencies in  
-> Analyzing problems related to computer software design,
-> Analyzing, designing, and implementing computer programs using a variety of current tools and technologies,
-> Boolen algebra, logic, and the fundamentals of counting,
-> Exhibiting professional behavior, demonstrating ability to work in teams, and effectively communicating,
-> Identifying, analyzing, and designing solutions for the required specifications for typical software projects,
-> Interpreting mathematical concepts and translating them into programming logic,
-> investigating functions, relations, sets, and simple proof techniques,
-> Learning general ideas about conditional expressions, functions, and control structures,
-> Preparing, executing, and debugging program code within an interactive programming environment,
+> Analyzing problems related to computer software design,  
+> Analyzing, designing, and implementing computer programs using a variety of current tools and technologies,  
+> Boolen algebra, logic, and the fundamentals of counting,  
+> Exhibiting professional behavior, demonstrating ability to work in teams, and effectively communicating,  
+> Identifying, analyzing, and designing solutions for the required specifications for typical software projects,  
+> Interpreting mathematical concepts and translating them into programming logic,  
+> investigating functions, relations, sets, and simple proof techniques,  
+> Learning general ideas about conditional expressions, functions, and control structures,  
+> Preparing, executing, and debugging program code within an interactive programming environment,  
 > Writing the software to implement and test/debug a specified design.
   
 - [x] Completion of 14 hours at *Base Camp* training skills such as  
-> Effective communication and leadership,
-> Employability and team building,
-> Problem solving and trust,
-> Goal setting and taking healthy risks,
+> Effective communication and leadership,  
+> Employability and team building,  
+> Problem solving and trust,  
+> Goal setting and taking healthy risks,  
 
 ### ***Some experiences I hope to have in the future:***
   
