@@ -3,25 +3,25 @@
 # 💖⭐ **INTRODUCTION** 💖⭐ 
 Hello 👋😃  
   
-I am Charmane McDonald, a coder who is currently attending <mark>*Clio High School*</mark> and <mark>*GCI (Genesee Career Institute)*</mark>. At *GCI* I am taking an AP Computer Science class where we are currently learning **Java**. Then, I am taking trig/precalc, personal finance, and AP language arts at *Clio High School*. I like to code, I am passionate about computer science. My two favorite video games are Minecraft and Cult of The Lamb. I also enjoy writing and creating my own original stories.
+I am Charmane McDonald, a coder who is currently attending <mark>*Clio High School*</mark> and <mark>*Genesee Career Institute (GCI)*</mark>. At *GCI* I am taking an AP Computer Science class where we are currently learning **Java**. Then, I am taking trig/precalc, personal finance, and AP language arts at *Clio High School*. I like to code, I am passionate about computer science. My two favorite video games are Minecraft and Cult of The Lamb. I also enjoy writing and creating my own original stories.
   
 #### ***Some Basic Information about me:***
   
-🧑‍🎓 Currently I am a *senior* attending Clio Highschool & GCI
+🧑‍🎓 Currently, I am a *senior* attending Clio Highschool & Genesee Career Institute.
   
-🌟 I am a member of ***NHS (National Honors Society)*** where I do volunteer work
+🌟 I am a member of **National Honors Society (NHS)**, where I do volunteer work.
   
-🧑‍💻 At GCI, I'm currently learning ***Java*** through [CodeHS](https://codehs.com/)
+🧑‍💻 At GCI, I am learning **Java** through [CodeHS](https://codehs.com/).
   
-🐍 I would like to learn __*Python*__
+🐍 I would like to learn *Python*.
   
-🥳 I know <mark>C#</mark>
+🥳 I know *C#*.
   
-🤩 I have an <mark>HTML & CSS</mark> certification
+🤩 I have an *HTML & CSS* certification.
   
-💖 My pronouns are *she/her*
+💖 My pronouns are *she / her*
   
-📫 The best way to contact me is through Email:
+📫 The best way to contact me is through my Email:
   
   🖤 [My Clio Highschool Email](013683@clioschools.net)
 
