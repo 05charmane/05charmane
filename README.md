@@ -30,13 +30,10 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
 > 🖤 [My Personal Email](ch.mcdonald51@gmail.com)  
 >  
 > *(My personal email is currently full, it is not the best way to contact me)*
-  
+
 <br />
-
-# ⭐ 🖥EXPERIENCES & SOCIAL MEDIA ____ ⭐
-
-<br /> 
-
+# 🖥 ⭐ EXPERIENCES 🖥 ⭐
+  
 __*Some of my "professional experience*__:
 
 <br /> 
