@@ -7,38 +7,22 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
   
 #### ***Some Basic Information about me:***
   
-🧑‍🎓 I'm a senior attending __*Clio Highschool*__ & __*GCI*__
-
-<br />
-
-🌟 I am a member of __*NHS (National Honors Society)*__ where I do volunteer work
-
-<br />
-
-🧑‍💻 I'm currently learning __*Java*__ through [CodeHS](https://codehs.com/)
-
-<br />
-
+🧑‍🎓 Currently I am a <mark>senior</mark> attending ***Clio Highschool*** & ***GCI***
+  
+🌟 I am a member of ***NHS (National Honors Society)*** where I do volunteer work
+  
+🧑‍💻 At GCI, I'm currently learning ***Java*** through [CodeHS](https://codehs.com/)
+  
 🐍 I would like to learn __*Python*__
-
-<br />
-
-🥳 I know __*C#*__
-
-<br />
-
-🤩 I have an __*HTML & CSS*__ certification
-
-<br />
-
+  
+🥳 I know <mark>C#</mark>
+  
+🤩 I have an <mark>HTML & CSS</mark> certification
+  
 💖 My pronouns are *she/her*
-
-<br />
-
+  
 📫 The best way to contact me is through Email:
-
-<br />
-
+  
   🖤 [My Clio Highschool Email](013683@clioschools.net)
 
 <br />
