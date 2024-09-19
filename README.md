@@ -32,6 +32,7 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
 > *(My personal email is currently full, it is not the best way to contact me)*
 
 <br />  
+  
 # 🖥 ⭐ EXPERIENCES 🖥 ⭐
   
 __*Some of my "professional experience*__:
