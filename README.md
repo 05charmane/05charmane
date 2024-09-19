@@ -1,6 +1,6 @@
 ##### Charmane McDonald - README REPO
 
-# 💖⭐ **INTRODUCTION** 💖⭐ 
+# 💖 ⭐ **INTRODUCTION** 💖 ⭐ 
 Hello 👋😃  
   
 I am Charmane McDonald, a coder who is currently attending <mark>*Clio High School*</mark> and <mark>*Genesee Career Institute (GCI)*</mark>. At *GCI* I am taking an AP Computer Science class where we are currently learning **Java**. Then, I am taking trig/precalc, personal finance, and AP language arts at *Clio High School*. I like to code, I am passionate about computer science. My two favorite video games are Minecraft and Cult of The Lamb. I also enjoy writing and creating my own original stories.
@@ -33,7 +33,7 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
   
 <br />
 
-## ⭐ ____ EXPERIENCES & SOCIAL MEDIA ____ ⭐
+# ⭐ 🖥EXPERIENCES & SOCIAL MEDIA ____ ⭐
 
 <br /> 
 
