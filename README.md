@@ -1,4 +1,4 @@
-<p align='center'> Charmane McDonald - README REPO </p>
+##### Charmane McDonald - README REPO
 
 # ⭐ ____ INTRODUCTION ____ ⭐ 
 
