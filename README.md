@@ -1,6 +1,6 @@
 ##### Charmane McDonald - README REPO
 
-# ⭐ ____ INTRODUCTION ____ ⭐ 
+# ⭐ **INTRODUCTION** ⭐ 
 Hello 👋😃 
 <br />I'm Charmane McDonald, a student currently learning Java. I attend __*Clio High School*__ and __*GCI (Genesee Career Institute)*__. 
 I'm taking trig/Precalc, personal finance, and AP language arts at Clio High School. At GCI I am taking AP programing. I am 
