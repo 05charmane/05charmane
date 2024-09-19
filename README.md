@@ -7,7 +7,7 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
   
 #### ***Some Basic Information about me:***
   
-🧑‍🎓 Currently I am a <mark>senior</mark> attending ***Clio Highschool*** & ***GCI***
+🧑‍🎓 Currently I am a *senior* attending Clio Highschool & GCI
   
 🌟 I am a member of ***NHS (National Honors Society)*** where I do volunteer work
   
