@@ -23,11 +23,11 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
   
 📫 The best way to contact me is through my Email:
   
-  🖤 [My Clio Highschool Email](013683@clioschools.net)
-      
-  🖤 [My GCI Email](gci.230826@students.geneseeisd.org)
-      
-  🖤 [My Personal Email](ch.mcdonald51@gmail.com) *(This email is currently full, it is not the best way to contact me)*
+> 🖤 [My Clio Highschool Email](013683@clioschools.net)
+>      
+> 🖤 [My GCI Email](gci.230826@students.geneseeisd.org)
+>      
+> 🖤 [My Personal Email](ch.mcdonald51@gmail.com) *(This email is currently full, it is not the best way to contact me)*
   
 <br />
 
