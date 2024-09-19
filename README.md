@@ -21,7 +21,7 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
   
 💖 My pronouns are *she / her*
   
-📫 The best way to contact me is through my Email:
+📫 The best way to contact me is through my email:
   
 > 🖤 [My Clio Highschool Email](013683@clioschools.net)
 >      
@@ -33,65 +33,59 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
 
 <br />  
   
-# 🖥 ⭐ EXPERIENCES 🖥 ⭐
-  
-__*Some of my "professional experience*__:
+# 🌺 ⭐ EXPERIENCES 🌺 ⭐
 
-<br /> 
+My first experience with "computer science" was a game programming class that I took during my freshman year at Clio High School. It was the starting point for me becoming interested in a career using computer science. In that class, I was introduced to block programming and a few basic computer science concepts. Eventually, in my junior year, I enrolled in a programming course at GCI where I was taught my first-ever programming language (C#). Currently, as a senior in high school, most of my professional experience comes from Genesee Career Institute. I took a game programming course there, as previously mentioned. Now, I am taking an AP computer science course. Additionally, at GCI, I have taken a course called *Base Camp*. At Base Camp, I was taught skills to help me build my efficiency in the workplace. 
+  
+#### ***Some of my qualifications based on my experiences:***
 
-- Completion of *game programming class* at GCI with proficeinces in
+- [x] Completion and passing of *game programming class* at Genesee Career Institute with proficiencies in  
+> Analyzing problems related to computer software design,
+> Analyzing, designing, and implementing computer programs using a variety of current tools and technologies,
+> Boolen algebra, logic, and the fundamentals of counting,
+> Exhibiting professional behavior, demonstrating ability to work in teams, and effectively communicating,
+> Identifying, analyzing, and designing solutions for the required specifications for typical software projects,
+> Interpreting mathematical concepts and translating them into programming logic,
+> investigating functions, relations, sets, and simple proof techniques,
+> Learning general ideas about conditional expressions, functions, and control structures,
+> Preparing, executing, and debugging program code within an interactive programming environment,
+> Writing the software to implement and test/debug a specified design.
   
-  <br />Analyzing problems related to computer software design,
-  
-  <br />Analyzing, designing, and implementing computer programs using a variety of current tools and technologies,
-  
-  <br />Boolen algebra, logic, and the fundamentals of counting,
-  
-  <br />Exhibiting professionl behavior, demonstrating ability to work in teams, and effectively communicating,
-  
-  <br />Identifing, anazlying and designing solutions for the required speifications for typical software projects,
-  
-  <br />Iterpreting mathmatical concepts and translating them into programining logic,
-  
-  <br />investigating functions, relations, sets, and simple proof techniques,
-  
-  <br />Learning general ideas about conditionl expressions, functions and control structures,
-  
-  <br />Preparing, executing and debuging program code within an interactive programming enviroment,
-  
-  <br />Writing the software to implement and test/debug a specified design.
+- [x] Completion of 14 hours at *Base Camp* training skills such as  
+> Effective communication and leadership,
+> Employability and team building,
+> Problem solving and trust,
+> Goal setting and taking healthy risks,
 
-  <br /> 
+### ***Some experiences I hope to have in the future:***
   
-- Completion of 14 hours at *Base Camp* training skills like
+- [ ] Completion of AP computer science class at Genesee Career Institute.
 
-  <br />Effective communication and leadership,
+- [ ] Graduation from Clio High School and receiving my high school diploma.
   
-  <br />Employability and team building,
-  
-  <br />Problem solving and trust,
-  
-  <br />Goal setting and taking healthy risks
-  
-<br /> __🌐 SOCIAL MEDIA:__
-<br /> 
+- [ ] Completion of more hours at Base Camp with training in more skills.
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Yell0w_Fr0gg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() 
-
-<br /> __💻 TECH STACK:__
-<br /> 
-
+- [ ] Admittance to the University of Michigan (Ann Arbor). 
+  
+# 👥 ⭐ SOCIAL MEDIA 👥 ⭐
+  
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Yell0w_Fr0gg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() I may or may not have an addiction to Pinterest... 😅
+  
+# 💻 ⭐ TECH STACK 💻 ⭐
+  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br />
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=05charmane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  
+# 📊 ⭐ My GitHub Stats 📊 ⭐
+  
+![](https://github-readme-stats.vercel.app/api?username=05charmane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=05charmane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=05charmane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br />
-## 🏆 GitHub Trophies
+  
+# 🏆 ⭐ GitHub Trophies 🏆 ⭐
+  
 ![](https://github-profile-trophy.vercel.app/?username=05charmane&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
+  
+____________________________________________________________________
 [![](https://visitcount.itsvg.in/api?id=05charmane&icon=7&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
