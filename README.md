@@ -3,7 +3,7 @@
 # 💖⭐ **INTRODUCTION** 💖⭐ 
 Hello 👋😃  
   
-I am Charmane McDonald, a coder who is currently attending ==Clio High School== and *GCI (Genesee Career Institute)*. I'm taking trig/Precalc, personal finance, and AP language arts at Clio High School. At GCI I am taking AP programing. I am 
+I am Charmane McDonald, a coder who is currently attending <mark>Clio High School</mark> and *GCI (Genesee Career Institute)*. I'm taking trig/Precalc, personal finance, and AP language arts at Clio High School. At GCI I am taking AP programing. I am 
 passionate about coding and computer science in general. I like to play video games (of course), my two favorite games are 
 Minecraft and Cult of The Lamb. 
 
