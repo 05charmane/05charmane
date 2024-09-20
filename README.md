@@ -35,11 +35,11 @@ I am Charmane McDonald, a coder who is currently attending <mark>*Clio High Scho
   
 # 🌺 ⭐ EXPERIENCES 🌺 ⭐
 
-My first experience with "computer science" was a game programming class that I took during my freshman year at Clio High School. It was the starting point for me becoming interested in a career using computer science. In that class, I was introduced to block programming and a few basic computer science concepts. Eventually, in my junior year, I enrolled in a programming course at GCI where I was taught my first-ever programming language (C#). Currently, as a senior in high school, most of my professional experience comes from Genesee Career Institute. I took a game programming course there, as previously mentioned. Now, I am taking an AP computer science course. Additionally, at GCI, I have taken a course called *Base Camp*. At Base Camp, I was taught skills to help me build my efficiency in the workplace. 
+My first experience with "computer science" was a game programming class that I took during my freshman year at Clio High School. It was the starting point for me becoming interested in a career using computer science. In that class, I was introduced to block programming and a few basic computer science concepts. Eventually, in my junior year, I enrolled in a programming course at GCI where I was taught my first-ever programming language (C#). Currently, as a senior in high school, most of my professional experience comes from Genesee Career Institute. I took a 3D game programming course there, as previously mentioned. Now, I am taking an AP computer science course. Additionally, at GCI, I have taken a course called *Base Camp*. At Base Camp, I was taught skills to help me build my efficiency in the workplace. 
   
 #### ***Some of my qualifications based on my experiences:***
 
-- [x] Completion and passing of *game programming class* at Genesee Career Institute with proficiencies in  
+- [x] Completion and passing of *3D game programming class* at Genesee Career Institute with proficiencies in  
 > Analyzing problems related to computer software design,  
 > Analyzing, designing, and implementing computer programs using a variety of current tools and technologies,  
 > Boolen algebra, logic, and the fundamentals of counting,  
